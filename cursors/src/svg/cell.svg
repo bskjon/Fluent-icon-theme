@@ -1,77 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   version="1.1"
-   viewBox="0 0 32 32"
-   id="svg19"
-   sodipodi:docname="cell.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
-  <metadata
-     id="metadata23">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     id="namedview21"
-     showgrid="false"
-     inkscape:zoom="10.490937"
-     inkscape:cx="13.047591"
-     inkscape:cy="13.352967"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg19" />
-  <defs
-     id="defs5">
-    <filter
-       id="a"
-       x="-.24"
-       y="-.24"
-       width="1.48"
-       height="1.48"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.4"
-         id="feGaussianBlur2" />
-    </filter>
-  </defs>
-  <path
-     inkscape:connector-curvature="0"
-     id="path7"
-     style="color:#000000;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;filter:url(#a);color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     d="m 13,8.96 v 4 H 9 v 6 h 4 v 4 h 6 v -4 h 4 v -6 h -4 v -4 z" />
-  <path
-     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     inkscape:connector-curvature="0"
-     id="path9"
-     d="m 13,8.96 v 4 H 9 v 4 h 4 v 4 h 4 v -4 h 4 v -4 h -4 v -4 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#333333"
-     id="path11"
-     d="m 13,8.96 v 4 H 9 v 4 h 4 v 4 h 4 v -4 h 4 v -4 h -4 v -4 z" />
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <use id="path7" xlink:href="#_Image1" x="4.8" y="4.76" width="23px" height="23px"/>
+    <path id="path9" d="M13,8.96L13,12.96L9,12.96L9,16.96L13,16.96L13,20.96L17,20.96L17,16.96L21,16.96L21,12.96L17,12.96L17,8.96L13,8.96Z" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:2px;"/>
+    <path id="path11" d="M13,8.96L13,12.96L9,12.96L9,16.96L13,16.96L13,20.96L17,20.96L17,16.96L21,16.96L21,12.96L17,12.96L17,8.96L13,8.96Z" style="fill-rule:nonzero;"/>
+    <defs>
+        <image id="_Image1" width="23px" height="23px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABgElEQVRIiZWV23KDMAxED4Fc+/+fmqYpl/QBLSzCzjSa0TgEz5G0lkxD3ZrK+qqsO+vegOUH+y2bAjq9C9BU/hO0jQTaeBZoBIZYJwv2NnMFO8S7I3CKVXsnoAd+wwcqEjncpWgDeAauwCWem4A9rRLZmAMInqVw8FesZ4M/2Eu6O4MugbvwSwBvAb+FPILnrGUDdgaeeSnjW/g1wRu2+noVOoOXMlfWJwMLLkl8bwk6JW9KmbskAh/jfQa+WLUemLtIlW0ONLeft2DLtpsEVr/nfUB5+vJU5vGv7dtZZ6WVyhtS1rBqmveNxlngXmLPPCDHAlQ2MU/mE/hh7vmnBVqugnxIgnmbHdjqrAQewD38OwJtAmwOIEnkwbRH1Tn4HmBlv2TeGUg6ZlMlarE+YMr4ETL1rLojuEwRS5M3RmZ+cZXAu7tleShU4FlrQkfWA83g6pXrQTyAuqO1PQPbFix+LIrNzzog7t4xal2X8iO41lKvZ+C/v6GfvK9++QH+AKtcsAASsi/PAAAAAElFTkSuQmCC"/>
+    </defs>
 </svg>
